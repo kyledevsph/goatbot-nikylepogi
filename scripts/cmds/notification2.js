@@ -24,7 +24,7 @@ module.exports = {
     langs: {
         en: {
             missingMessage: "Please enter the message you want to send to all groups",
-            notification: "𝙉𝙤𝙩𝙞𝙛𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝙛𝙧𝙤𝙢 𝓐𝓭𝓶𝓲𝓷 𝓐𝓷𝓪𝓼 𝓐𝓶𝓲𝓷 ",
+            notification: "𝗡𝗢𝗧𝗜𝗙 𝗙𝗥𝗢𝗠 𝗞𝗬𝗟𝗘𝗣𝗢𝗚𝗜",
             sendingNotification: "Start sending notification from admin bot to %1 chat groups",
             sentNotification: "✅ Sent notification to %1 groups successfully",
             errorSendingNotification: "An error occurred while sending to %1 groups:\n%2"
