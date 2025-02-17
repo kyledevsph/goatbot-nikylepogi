@@ -2,7 +2,7 @@ const moment = require("moment-timezone");
 
 module.exports = {
 	config: {
-		name: "prefix",
+		name: "prefix2",
 		version: "1.0",
 		author: "Kylepogi", // Do not remove the author's name.
 		countDown: 5,
